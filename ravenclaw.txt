@@ -1,0 +1,4 @@
+.#/bin/bash
+we are working in project dcx
+exit 0
+
